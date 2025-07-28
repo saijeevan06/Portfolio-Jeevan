@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import './portfolio.css';
+import './Portfolio.css';
 
 const Portfolio = () => {
   const [theme, setTheme] = useState(localStorage.getItem('theme') || 'light');
