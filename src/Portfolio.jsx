@@ -81,7 +81,7 @@ const Portfolio = () => {
             <p className="hero-subtitle animate-on-scroll">A web developer and student.</p>
             <div className="hero-buttons animate-on-scroll">
               <a href="#skills" className="btn btn-primary">View Skills</a>
-              <a href="resume.pdf" download="Makam_Sai_Jeevan_Resume.pdf" className="btn btn-secondary">Download Resume</a>
+              <a href="resume.pdf" download="./Makam_Sai_Jeevan_Resume.pdf" className="btn btn-secondary">Download Resume</a>
             </div>
           </div>
         </section>
